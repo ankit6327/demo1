@@ -1,0 +1,15 @@
+{
+  "name": "dumyapp",
+  "version": "1.0.0",
+  "description": "This is dummy project for git hub and we will try to upload this project on heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Ankit Sood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0"
+  }
+}
